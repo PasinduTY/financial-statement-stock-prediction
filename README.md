@@ -3,6 +3,8 @@
 ## 📌 Overview
 This project explores a fundamental-data-driven approach to stock return prediction by leveraging financial statement information. Financial statements such as income statements and balance sheets provide insights into a company's financial health, profitability, and stability. By combining these indicators with deep learning techniques, this study aims to improve the reliability of stock return predictions.
 
+---
+
 ## 📊 Dataset
 The dataset used in this study consists of **quarterly financial statement data** from companies listed in the **S&P SL20 Index**, which represents leading companies in the Sri Lankan stock market.
 
