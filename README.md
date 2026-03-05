@@ -57,5 +57,3 @@ The experimental results indicate that not all financial indicators contribute e
 This observation suggests that these indicators may have a limited direct impact on market price movements within the studied dataset. Since **ROA and ROE primarily measure overall company profitability rather than direct shareholder returns**, their lower importance in the model aligns with the idea that investors may respond more strongly to other financial indicators when valuing stocks.
 
 These findings highlight the importance of selecting relevant financial indicators when building predictive models for stock market analysis.
-
----
