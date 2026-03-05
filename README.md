@@ -1,4 +1,4 @@
-# Multimodal Stock Price Prediction using LSTM
+# Stock Return Prediction Using Financial Statement Data (LSTM)
 
 ## 📌 Overview
 This project explores a fundamental-data-driven approach to stock return prediction by leveraging financial statement information. Financial statements such as income statements and balance sheets provide insights into a company's financial health, profitability, and stability. By combining these indicators with deep learning techniques, this study aims to improve the reliability of stock return predictions.
@@ -49,6 +49,11 @@ The prediction process follows a **two-step approach**:
 ---
 
 ## 📈 Expected Outcome
-The model aims to demonstrate that **financial statement indicators can significantly contribute to stock return prediction**, providing investors with a **fundamental-data-driven forecasting approach** rather than relying solely on price trends.
+
+The experimental results indicate that not all financial indicators contribute equally to stock price prediction. Based on the feature importance analysis derived from the model, **Return on Assets (ROA)** and **Return on Equity (ROE)** show relatively lower influence on predicting stock prices compared to other financial metrics.
+
+This observation suggests that these indicators may have a limited direct impact on market price movements within the studied dataset. Since **ROA and ROE primarily measure overall company profitability rather than direct shareholder returns**, their lower importance in the model aligns with the idea that investors may respond more strongly to other financial indicators when valuing stocks.
+
+These findings highlight the importance of selecting relevant financial indicators when building predictive models for stock market analysis.
 
 ---
